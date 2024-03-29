@@ -424,3 +424,5 @@ export default function Docs({
 
 <h4> Optional catch-all segment Sample </h4>
 <img src="Images/optional_catch-all_segment_sample.png">
+
+<h1>NEXT?</h1>
